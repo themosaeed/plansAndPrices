@@ -1,0 +1,26 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '3 out of 4' test cases in the current suite                                        
+                                            Test Method: 'PriceAndPlansTests.validatePriceOfLitePLan'                                            
+                                 Test Description: 'validate the  correct price of LITE plan in both languages'                                 
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Get text "???????" from "???????". @15-10-2023 14:54:58.0222 PM
+[ReportManager] Moved the mouse to the middle of the element. @15-10-2023 14:54:58.0382 PM
+[ReportManager] Click "By.id: country". @15-10-2023 14:54:58.0416 PM
+[ReportManager] Moved the mouse to the middle of the element. @15-10-2023 14:54:58.0602 PM
+[ReportManager] Click "sa KSA". @15-10-2023 14:54:58.0632 PM
+[ReportManager] Get text "15 SAR/month" from "By.id: currency-lite". @15-10-2023 14:55:00.0955 PM
+[ReportManager] Expected "15 SAR/month", and actual "15 SAR/month" @15-10-2023 14:55:00.0955 PM
+[ReportManager] Assertion "ValidateElementAttribute" PASSED. Expected "Value Should be '15 SAR/month' for the 'text' attribute, element locator 'By.id: currency-lite'" and Actual "15 SAR/month". Comparison Type "EQUALS". Validation Type "POSITIVE". @15-10-2023 14:55:01.0966 PM
+[ReportManager] Assertion Passed: The Element located by "By.id: currency-lite" text is equal to "15 SAR/month". @15-10-2023 14:55:01.0966 PM
+[ReportManager] Successfully created attachment 'Screenshot - 1697370901471_validatePriceOfLitePLan_ValidateElementAttribute_passed' @15-10-2023 14:55:01.0973 PM
+[ReportManager] Get text "???????" from "???????". @15-10-2023 14:55:02.0008 PM
+[ReportManager] Moved the mouse to the middle of the element. @15-10-2023 14:55:02.0160 PM
+[ReportManager] Click "???????". @15-10-2023 14:55:02.0195 PM
+[ReportManager] Get text "15 ???? ?????/???" from "By.id: currency-????". @15-10-2023 14:55:04.0026 PM
+[ReportManager] Expected "15 ???? ?????/???", and actual "15 ???? ?????/???" @15-10-2023 14:55:04.0026 PM
+[ReportManager] Assertion "ValidateElementAttribute" PASSED. Expected "Value Should be '15 ???? ?????/???' for the 'text' attribute, element locator 'By.id: currency-????'" and Actual "15 ???? ?????/???". Comparison Type "EQUALS". Validation Type "POSITIVE". @15-10-2023 14:55:04.0908 PM
+[ReportManager] Assertion Passed: The Element located by "By.id: currency-????" text is equal to "15 ???? ?????/???". @15-10-2023 14:55:04.0910 PM
+[ReportManager] Successfully created attachment 'Screenshot - 1697370904525_validatePriceOfLitePLan_ValidateElementAttribute_passed' @15-10-2023 14:55:04.0913 PM
+[ReportManager] Successfully created attachment 'SHAFT Engine Logs - Current Method log: init' @15-10-2023 14:55:04.0914 PM
