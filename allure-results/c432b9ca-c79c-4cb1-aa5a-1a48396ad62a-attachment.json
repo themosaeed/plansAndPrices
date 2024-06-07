@@ -1,0 +1,32 @@
+{
+  "KSA": {
+    "En": {
+      "name": "KSA",
+      "prices": ["15 SAR/month","25 SAR/month","60 SAR/month"]
+    },
+    "Ar": {
+      "name": "السعودية",
+      "prices": ["15 ريال سعودي/شهر", "25 ريال سعودي/شهر" , "60 ريال سعودي/شهر"]
+    }
+  },
+  "Kuwait": {
+    "En": {
+      "name": "Kuwait",
+      "prices": ["1.2 KWD/month","2.5 KWD/month","4.8 KWD/month"]
+    },
+    "Ar": {
+      "name": "الكويت",
+      "prices": ["1.2 دينار كويتي/شهر", "2.5 دينار كويتي/شهر" , "4.8 دينار كويتي/شهر"]
+    }
+  },
+  "Bahrain": {
+    "En": {
+      "name": "Bahrain",
+      "prices": ["2 BHD/month", "3 BHD/month","6 BHD/month"]
+    },
+    "Ar": {
+      "name": "البحرين",
+      "prices" : ["2 \u202Bدينار بحريني/شهر", "3 \u202Bدينار بحريني/شهر" , "6 \u202Bدينار بحريني/شهر"]
+    }
+  }
+}

@@ -1,0 +1,7 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '4 out of 4' test cases in the current suite                                        
+                                          Test Method: 'PriceAndPlansTests.validatePriceOfPREMIUMPLan'                                          
+                                Test Description: 'validate the  correct price of PREMIUM plan in both languages'                                
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m

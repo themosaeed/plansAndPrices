@@ -1,0 +1,8 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 4' test cases in the current suite                                        
+                                              Test Method: 'PriceAndPlansTests.validatePlansExist'                                              
+                                     Test Description: 'validate the existence of 3 plans in both languages'                                     
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Successfully created attachment 'SHAFT Engine Logs - Current Method log: init' @05-02-2024 22:33:51.0685 PM
